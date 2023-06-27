@@ -52,4 +52,8 @@ hr {
     .rodape {
         padding: 4em 0;
     }
+
+    .contato__email::placeholder {
+        
+    }
 }
