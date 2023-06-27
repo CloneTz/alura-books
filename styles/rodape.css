@@ -50,7 +50,7 @@ hr {
     }
 
     .lista-rodape__link:hover {
-        color: var(--azul);
+        color: var(--azul-clique);
     }
 
     .lista-rodape__item {
@@ -58,7 +58,7 @@ hr {
     }
 
     .rodape {
-        
+        background: var(--cor-de-fundo);
         padding: 4em 0;
     }
 

@@ -136,7 +136,6 @@
 
     .lista-menu__item:hover {
         background-color: var(--azul);
-        border: 2px solid var(--branco);
     }
 
     .lista-menu__item:hover > .lista-menu__link {
@@ -152,6 +151,10 @@
         align-items: center;
         text-decoration: none;
         
+    }
+
+    .lista-menu {
+        border: 1px solid white;
     }
 
     .cabecalho {
