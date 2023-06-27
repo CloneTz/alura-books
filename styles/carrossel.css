@@ -72,6 +72,11 @@
     text-decoration: none;
 }
 
+.botoes__ancora:hover{
+    color: var(--laranja);
+    background: var(--azul);
+}
+
 @media screen and (min-width: 1024px) {
     .carrossel__titulo {
         font-size: 26px;
@@ -104,6 +109,10 @@
 
     .swiper {
         width: 50%;
+    }
+
+    .swiper-button-prev, .swiper-button-next {
+        display: none;
     }
 
     .swiper-pagination {
