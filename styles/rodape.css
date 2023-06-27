@@ -54,6 +54,7 @@ hr {
     }
 
     .contato__email::placeholder {
-        
+        text-align: center;
+        background-position: 6em;
     }
 }
